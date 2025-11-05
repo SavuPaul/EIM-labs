@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/javaSkelStartedService" />
+            <option value="$PROJECT_DIR$/javaSkelStartedServiceActivity" />
+            <option value="$PROJECT_DIR$/javaSolutionStartedService" />
+            <option value="$PROJECT_DIR$/javaSolutionStartedServiceActivity" />
+            <option value="$PROJECT_DIR$/kotlinSkelStartedService" />
+            <option value="$PROJECT_DIR$/kotlinSkelStartedServiceActivity" />
+            <option value="$PROJECT_DIR$/kotlinSolutionStartedService" />
+            <option value="$PROJECT_DIR$/kotlinSolutionStartedServiceActivity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
